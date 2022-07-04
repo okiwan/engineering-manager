@@ -1,6 +1,6 @@
 # Giving feedback
 
-The goal of this guide is to define a basic methodology to follow when giving feedback. The final goal is to provide to the engineer some constructive feedback which includes:
+The goal of this guide is to define a basic methodology to follow when giving feedback. The final goal is to provide to the employee some constructive feedback which includes:
 
 * Reinforce positivie feedback you have for them
 * Provide a set of suggestions for improvement, that will cover the negative feedback
@@ -17,8 +17,45 @@ When giving feedback that we want it should have some effect, we need to cover s
 ## 1. Pre-planning
 
 * When planning and preparing the feedback is going to be delivered (ours or from a third party) we need to make sure we are separing the **fact** from the **opinion**.
-* We might want to present the situations with a *What if* structure.
+* You have to be prepared. Try creating situations by using the *What if...* approach.
 * We should provide feedback on behaviours that are **changeable**, otherwise it is just noise that might prevent focusing on actionable feedback.
 * We need to decide the right moment to give feedback, to maximize the impact.
 * Let's always prepare an overview of the feedback situation
-* 
+
+## 2. Set the scene
+
+* The feedback will always take place in private.
+* Look for a comfortable place and set a time.
+* The idea is to have an informal meeting, so that it can be a much productive from both parts as possible.
+* Start with the positive.
+* Then it is time to explain the issues / things to improve. Be specific, be objetctive. Again, facts VS opinion.
+* The idea is to balance the two previous points. Limit the feedback to avoid overwhelming the employee.
+
+## 3. The two-way conversation
+
+* Control your feelings, be prepared and cool (What if...)
+* When expressing your opinion use the **I** to point you as the center of the action instead of the **You** approach, which might be interpreted as a blaming against the other person.
+* Focus on the consequences of the behavior you want to change
+* Do not rush, spend the required time on this conversation and get as much feedback as possible
+* Extra trips:
+    * Focus on behavior, not personality
+    * Avoid words like adverbs (never, always, etc.)
+    * Ask questions to prompt self-reflection
+
+## 4. Determine a plan of action
+
+* Suggest solutions and give choices, but let the other person take the decision. Those choices should have a clear definition and impact.
+* Collaborate with the plan, working together.
+* Ask questions:
+    * What do you suggest?
+    * Which one is the best approach?
+* Select actions compatible with the persons **goals**. These actions should be seen as a benefit for that person.
+* Provide training and tools
+* Confirm that all is properly understood
+* Set a timeline and a deadline and, if possible, a follow-up for the actions agreed.
+
+## 5-6. Commitment and follow-up
+There are no specific comments on these topics.
+
+## Communication strategies
+
