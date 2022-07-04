@@ -59,3 +59,28 @@ There are no specific comments on these topics.
 
 ## Communication strategies
 
+* Let go minor disagreement and do not try to always be right.
+* Give options: understand other's perspective and try to find common ground.
+* Avoid angry comments for feedback.
+* Do not rush: Clarify and give space for expression. Give time to make sure the communication is clear and has been understood.
+
+### Techniques
+
+* Use I statements, as explained before.
+* XYZ technique: When - What - How. Can be useful for reinforcement on positive feedback and for negative feedback.
+* Feel-good sandwich. Provide some negative feedback between two positive statements.
+
+### Efective listening
+
+* Start by stop talking :-)
+* Maintain eye contact.
+* Avoid the problem-solving approach.
+* Mirror, express again the shared idea with your own words. Validate that what you have listened makes sense.
+* Finally, share thoughts and opinions
+
+### How to deliver feedback
+
+* Be congruent: body language, vocal tone and verbal expressions.
+* Non verbal message **is important**. Relax and smile, keep eye contact and try to express positivements via your body.
+* About the voice: Avoid hesitation, speak with confidence and slowly, that way you will give space and time to think to the employee.
+
